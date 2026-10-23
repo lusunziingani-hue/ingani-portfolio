@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <!-- Outer Dark Container -->
+  <rect width="512" height="512" rx="128" fill="#111111"/>
+  
+  <!-- Monogram Text -->
+  <text 
+    x="240" 
+    y="280" 
+    dominant-baseline="middle" 
+    text-anchor="middle" 
+    font-family="system-ui, -apple-system, 'SF Pro Display', BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" 
+    font-weight="900" 
+    font-size="210" 
+    fill="#FFFFFF" 
+    letter-spacing="-10"
+  >
+    IMP
+  </text>
+  
+  <!-- Violet Accent Dot -->
+  <circle cx="410" cy="350" r="30" fill="#7C3AED" />
+</svg>
