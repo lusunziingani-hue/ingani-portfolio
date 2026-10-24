@@ -10,13 +10,13 @@ function Direction() {
           </p>
 
           <h2 className="mt-4 max-w-3xl text-4xl font-bold tracking-tight text-slate-950 md:text-5xl">
-            From software engineering to intelligent systems.
+            From Software Engineering to Intelligent Systems.
           </h2>
 
           <p className="mt-6 max-w-3xl text-lg leading-8 text-slate-500">
-            I’m building toward a deeper understanding of how software, data,
-            APIs, cloud infrastructure and AI systems work together to solve
-            complex problems.
+            I work across application development, database-driven systems, and
+            API integrations, with an understanding of how these components
+            interact within broader software environments.
           </p>
 
           <div className="mt-10 flex flex-wrap items-center gap-3">
